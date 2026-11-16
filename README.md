@@ -21,12 +21,12 @@ on those two ideas as an original game (see [Where it came from](#where-it-came-
 
 ## Play it
 
-- **In your browser:** [trysac.github.io/Unit-3-Sound-And-Effects](https://trysac.github.io/Unit-3-Sound-And-Effects/)
+- **In your browser:** [trysac.github.io/g014-balloon-dash](https://trysac.github.io/g014-balloon-dash/)
 - **On itch.io:** [trysac.itch.io/balloon-dash](https://trysac.itch.io/balloon-dash)
 - **Get the code:** fork this repository, or clone it:
 
   ```bash
-  git clone https://github.com/Trysac/Unit-3-Sound-And-Effects.git
+  git clone https://github.com/Trysac/g014-balloon-dash.git
   ```
 
 ## Run it
